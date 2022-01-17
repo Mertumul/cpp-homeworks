@@ -1,14 +1,3 @@
-﻿/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**			         BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				          PROGRAMLAMAYA GİRİŞİ DERSİ
-**
-**				ÖDEV NUMARASI:1
-**				ÖĞRENCİ ADI:MERT UMUL
-**				ÖĞRENCİ NUMARASI.:B201210049
-**				DERS GRUBU:C
-****************************************************************************/
 #include <iostream>
 using namespace std;
 #include <locale.h>
