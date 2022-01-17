@@ -1,13 +1,3 @@
-﻿
-/****************************************************************************
-**	SAKARYA UNIVERSITY
-**	BILGISAYAR MUHENDISLIGI BOLUMU
-**	PROGRAMLAMAYA GIRIS
-**
-**	ÖĞRENCİ ADI......:MERT UMUL
-**	ÖĞRENCİ NUMARASI.:2
-**	DERS GRUBU…………………:C
-****************************************************************************/
 #include<iostream>
 #include<Windows.h>
 #include<time.h>
